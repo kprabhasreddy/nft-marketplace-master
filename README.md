@@ -4,25 +4,6 @@
 
 This is an open decentralized NFT Marketplace built with smart contracts powered by Ethereum. It basically consists in an open platform where each user can mint his own NFT and expose it on a marketplace.
 
-## Table of Contents
-
-- [Getting Started](#getting-started)
-- [The Project](#the-project)
-- [Resources](#resources)
-
-## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
-
-### The repository
-
-First, you will need to `clone` or `fork` the repository into your Github account:
-
-<img src="https://docs.github.com/assets/images/help/repository/fork_button.jpg" alt="Fork on GitHub" width='450'>
-
-```
-$ git clone https://github.com/miquelTC/nft-marketplace.git
-```
 
 ### Installing
 
@@ -104,17 +85,6 @@ npm run build
 ```
 
 
-### Technology stack
-
-- `Solidity`
-- `React.js`
-- `Truffle`
-- `Web3.js`
-- `Ganache`
-- `Node.js`
-- `Metamask`
-- `IPFS`
-
 ## The Project
 
 This project consists in an open platform where each user can mint his own NFT and expose it on a marketplace by making an offer or buying NFT from others. It includes:
@@ -155,12 +125,3 @@ A user can buy those NFT which someone else offered. This will require paying th
 #### Claim Funds
 
 If a user sold an NFT, he can claim his funds by clicking the button in the top-right.
-
-## Resources
-
-- [ethereum.org](https://ethereum.org/)
-- [truffle suit](https://www.trufflesuite.com/)
-- [node.js](https://nodejs.org/)
-- [web3.js](https://web3js.readthedocs.io/)
-- [react.js](https://reactjs.org/)
-- [IPFS](https://ipfs.io/)
